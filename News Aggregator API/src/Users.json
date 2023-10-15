@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "fullName": "fullName",
+            "email": "test@test.com",
+            "password": "testing@123",
+            "category": "sports",
+            "language": "en",
+            "country": "in",
+            "createdAt": "",
+            "updatedAt": ""
+        },
+        {
+            "email": "test1@test.com",
+            "fullname": "testing",
+            "password": "$2b$08$dM/2DldoIezepgHHipxQ3O.zW4wddZAGlaxcSDt6gWn0eUJ/d4VaS",
+            "country": "in",
+            "language": "en",
+            "category": "sports",
+            "id": "34d4afe7-dbe1-4645-95d5-7a27ac7c108d",
+            "createdAt": 1696985330254,
+            "updatedAt": 1697047609390
+        }
+    ]
+}
